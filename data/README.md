@@ -15,14 +15,29 @@ This project uses fictional employee data from Kaggle. The analysis does not rep
 
 ## Data Structure
 
+- File Name: WA_Fn-UseC_-HR-Employee-Attrition.csv
+- File Format: CSV
+- Number of Records: 1,470
+- Number of Columns: 35
+- Granularity: One record per employee
+- Primary Identifier: EmployeeNumber
+- Target Variable: Attrition
+
+
 ## Download Instructions
+
+1. Access the dataset page on Kaggle.
+2. Download the dataset.
+3. Extract the CSV file.
+4. Save the original CSV file in `data/raw/`.
+
 
 ## License
 
-- Database: Open Database License (ODbL) 1.0
-  https://opendatacommons.org/licenses/odbl/1-0/
-- Contents: Database Contents License (DbCL) 1.0
-  https://opendatacommons.org/licenses/dbcl/1-0/
+- Database: [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/)
+- Contents: [Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
+
+The dataset and its contents remain subject to their respective license terms.
 
 
 ## Limitations
