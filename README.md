@@ -62,9 +62,9 @@ View [Employee Attrition Dashboard on Tableau Public](https://public.tableau.com
 
 ## Key Insights
 
-- 1. Overtime is strongly associated with higher attrition rates.
-- 2. Lower satisfaction ratings are generally associated with higher attrition rates.
-- 3. Work-life balance shows a non-linear relationship with attrition.
+- Overtime is strongly associated with higher attrition rates.
+- Lower satisfaction ratings are generally associated with higher attrition rates.
+- Work-life balance shows a non-linear relationship with attrition.
 
 For detailed findings and limitations, see [Business Insights](reports/findings_and_recommendations.md).
 
