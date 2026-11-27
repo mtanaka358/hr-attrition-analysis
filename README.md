@@ -2,10 +2,16 @@
 
 ## Project Overview
 
-This project is using fictional employee data from Kaggle.
+This project analyzes employee attrition using a fictional HR dataset available on Kaggle.
 
-After presenting the overall employee attrition rate, I analyzed whether work environment satisfaction, job satisfaction, relationship satisfaction, work-life balance, and overtime differed between employees who left and those who stayed, focusing on employees with less than five years of tenure.
+The analysis first examines attrition rates across different employee tenure groups, then focuses on employees with less than five years of tenure to explore how attrition varies by environment satisfaction, job satisfaction, relationship satisfaction, work-life balance, and overtime.
 
+## Tools Used
+
+- Tableau Public — Data analysis, visualization, and dashboard publishing
+- Google Sheets — Data profiling, quality checks, and KPI validation
+- CSV — Source data and validation documentation
+- GitHub — Version control and portfolio publication
 
 ## Business Question
 
@@ -28,6 +34,7 @@ KPI definitions and calculation methods are documented and validated in the [KPI
 ## Tools Used
 
 - Tableau Public — Data visualization and dashboard publishing
+- Google Sheets — Data profiling, quality checks, and KPI validation
 - CSV — Exported query results used as dashboard data sources
 - GitHub — Version control and portfolio publication
 
@@ -45,7 +52,7 @@ For additional information, see [Data Documentation](data/README.md) and [Data Q
 
 ## Dashboard
 
-View [Employee Attrition Dashboard on Tableau Public](https://public.tableau.com:9443/views/EmployeeAttritionAnalysisIBMHRAnalytics/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+View [Employee Attrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/mikiko.tanaka/viz/EmployeeAttritionAnalysisIBMHRAnalytics/Dashboard)
 
 
 ### Dashboard Preview
