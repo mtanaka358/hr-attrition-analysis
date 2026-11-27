@@ -1,0 +1,36 @@
+Seq,Column Name,Data Type,Statistical Data Type,Description,Possible Value,Example,Notes
+1,Age,integer,Numerical - Discrete,Age of the employee,,41,
+2,Attrition,boolean,Categorical - Binary,Indicates whether the employee has left the company,"Yes, No",Yes,
+3,BusinessTravel,string,Categorical - Nominal,Frequency of business travel,,Travel_Rarely,
+4,DailyRate,integer,Numerical - Discrete,Daily rate associated with the employee,,1102,Currency and calculation method unspecified
+5,Department,string,Categorical - Nominal,Department to which the employee belongs,,Sales,
+6,DistanceFromHome,integer,Numerical - Discrete,Distance between the employee's home and workplace,,1,Unit not confirmed
+7,Education,integer,Categorical - Ordinal,Educational attainment level of the employee,"1 :'Below College', 2 :'College', 3: 'Bachelor,' 4: 'Master', 5: 'Doctor'",2,
+8,EducationField,string,Categorical - Nominal,Field of education of the employee,,Life Sciences,
+9,EmployeeCount,integer,Numerical - Discrete,Employee count,1,1,Constant(Assumed)
+10,EmployeeNumber,integer,Numerical - Discrete,Unique identifier assigned to each employee,,1,
+11,EnvironmentSatisfaction,integer,Categorical - Ordinal,Indiates the satiscaction about the environment,"1 :'Low', 2:'Medium', 3:'High', 4:'Very High'",2,
+12,Gender,string,Categorical - Nominal,Gender of the employee,"Male, Feamle",Female,
+13,HourlyRate,integer,Numerical - Discrete,Hourly rate associated with the employee,,94,Currency and calculation method unspecified
+14,JobInvolvement,integer,Categorical - Ordinal,Level of the employee's involvement in their job,"1 :'Low', 2:'Medium', 3:'High', 4:'Very High'",3,
+15,JobLevel,integer,Categorical - Ordinal,Job grade of the employee,,2,Exact job grades are not documented.
+16,JobRole,string,Categorical - Nominal,Job role/title of the employee with in the organisation,,Sales Executive,
+17,JobSatisfaction,integer,Categorical - Ordinal,Indicate the satisfaction about the job,"1 :'Low', 2:'Medium', 3:'High', 4:'Very High'",4,
+18,MaritalStatus,string,Categorical - Nominal,Marital status of the employee,"Singlie, Married, Divorced",Single,
+19,MonthlyIncome,integer,Numerical - Discrete,Monthly income/salary of the employee,,5993,Currency and acceptable range are unspecified
+20,MonthlyRate,integer,Numerical - Discrete,Monthly rate associated with the employee,,19479,Currency and calculation method unspecified
+21,NumCompaniesWorked,integer,Numerical - Discrete,Number of companies the employee has worked for,,8,
+22,Over18,string,Categorical - Binary,Indicates whether the employee is over 18 years old,"Y, N",Y,Constant(Assumed)
+23,OverTime,string,Categorical - Binary,Indicates whether the employee works overtime,"Yes, No",Yes,
+24,PercentSalaryHike,integer,Numerical - Discrete,Percentage increase in the employee's salary,,11,Unit:%
+25,PerformanceRating,integer,Categorical - Ordinal,Employee's performance rating,"1 :'Low', 2: 'Good', 3: 'Excellent', 4: 'Outstanding'",3,
+26,RelationshipSatisfaction,integer,Categorical - Ordinal,Employee's satisfaction with workplace relationships,"1 :'Low', 2:'Medium', 3:'High', 4:'Very High'",1,
+27,StandardHours,integer,Numerical - Discrete,Standard working hours of the employee,,80,Constant(Assumed)
+28,StockOptionLevel,integer,Categorical - Ordinal,Stock option level assigned to the employee,,0,Assumed the Statistical Data Type.  Exact Stock option levels are undcoumented
+29,TotalWorkingYears,integer,Numerical - Discrete,Total number of years the employee has been working,,8,
+30,TrainingTimesLastYear,integer,Numerical - Discrete,Number of training sessions attended by the employee in the previous year,,0,
+31,WorkLifeBalance,integer,Categorical - Ordinal,Employee's reported level of work-life balance,1: 'Bad' 2: 'Good' 3:'Better' 4:'Best',1,
+32,YearsAtCompany,integer,Numerical - Discrete,Number of years the employee has been working a the current company,,6,
+33,YearsInCurrentRole,integer,Numerical - Discrete,Number of years the employee has been in their current role,,4,
+34,YearsSinceLastPromotion,integer,Numerical - Discrete,Number of years since the employee's last promotion,,0,
+35,YearsWithCurrManager,integer,Numerical - Discrete,Number of years the employee has worked with their current manager,,5,
