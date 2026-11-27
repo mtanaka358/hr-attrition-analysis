@@ -1,0 +1,6 @@
+KPI ID,KPI Name,Definition,Numerator,Denominator,Tableau Result(%),Sheets Result,Sheets Result(%),Result
+KPI-01,Overall Attrition Rate,"Number of employees with Attrition = ""Yes"" / Total number of employees",237,1470,16.12,0.1612244898,16.12%,Pass
+KPI-02,Under 1 Year Attrition Rate,"Number of employees with Attrition = ""Yes"" and YearsAtCompany < 1 / Total number of employees with YearsAtCompany < 1",16,44,36.36,0.3636363636,36.36%,Pass
+KPI-03,1 to Under 5 Years Attrition Rate,"Number of employees with Attrition = ""Yes"" and 1 = 5 / Total number of employees with YearsAtCompany >= 5",125,536,23.32,0.2332089552,23.32%,Pass
+KPI-04,5 Years or More Attrition Rate,"Number of employees with Attrition = ""Yes"" and YearsAtCompany >= 5 / Total number of employees with YearsAtCompany >= 5",96,890,10.79,0.1078651685,10.79%,Pass
+KPI-05,Under 5 Years Attrition Rate,"Number of employees with Attrition = ""Yes"" and YearsAtCompany < 5 / Total number of employees with YearsAtCompany < 5",141,580,24.31,0.2431034483,24.31%,Pass
