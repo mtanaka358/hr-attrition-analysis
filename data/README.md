@@ -41,3 +41,9 @@ The dataset and its contents remain subject to their respective license terms.
 
 
 ## Limitations
+
+- The dataset contains fictional employee data.
+- The dataset may not reflect real-world workforce characteristics.
+- The dataset does not provide longitudinal information.
+- Observed relationships do not establish causality.
+- The findings should not be generalised to actual organisations without further validation.
